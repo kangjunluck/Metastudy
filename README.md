@@ -10,6 +10,14 @@
 
 유니티파일 : https://github.com/kangjunluck/MetaStudyUnity
 
+[ERD](/산출물/산출물/B105_ERD.PNG)
+
+[시퀀스다이어그램](/산출물/산출물/B105_시퀀스다이아그램.jpg)
+
+[화면정의서_Figma](/산출물/산출물/메타스터디_화면정의서_Figma.pdf)
+
+[화면정의서](/산출물/산출물/B105_화면정의서.pdf)
+
 ![image-20210824181233929](README.assets/image-20210824181233929.png)
 
 ### 주제
@@ -155,5 +163,5 @@ Main : Unity , Front-end, Back-end
 
    
 
-[ERD](/산출물/산출물/B105_ERD.PNG)
+
 
