@@ -18,6 +18,8 @@
 
 [화면정의서](/산출물/산출물/B105_화면정의서.pdf)
 
+UCC영상 : https://westernriver.tistory.com/43
+
 ![image-20210824181233929](README.assets/image-20210824181233929.png)
 
 ### 주제
